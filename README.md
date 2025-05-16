@@ -62,7 +62,10 @@ Các thư viện mặc định đi kèm Python (không cần cài thêm):
 **5. Chất lượng chương trình:**
 
 •	Dự án được tổ chức rõ ràng với các thư mục tách biệt: Com Trang/,Thit kho/,Thit kho trung/,Trung chien/,Ca hu kho/,Dau hu sot ca/,Canh cai/,Canh chua/,Rau muong xao toi/,Ga chien/
+
 •	Giao diện người dùng được xây dựng bằng Tkinter thân thiện và trực quan.
+
 •	Ứng dụng sử dụng đa luồng để tránh giao diện bị treo khi xử lý ảnh.
+
 •	Dễ dàng mở rộng với các món ăn mới, cập nhật giá, hoặc tích hợp camera trực tiếp.
 
