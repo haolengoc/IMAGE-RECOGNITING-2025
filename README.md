@@ -13,9 +13,12 @@ Bước 3: Tải mã nguồn dự án từ GitHub hoặc copy vào máy.
 Bước 4: Mở thư mục dự án bằng VSCode.
 
 Bước 5: Tạo môi trường ảo (virtual environment):
+
 •	Mở terminal và chạy lệnh:
 python -m venv venv
+
 •	Kích hoạt môi trường:
+
 o	Windows: .\venv\Scripts\activate
 o	macOS/Linux: source venv/bin/activate
 
@@ -32,8 +35,11 @@ python app.py
 Bước 3: Giao diện xuất hiện, cho phép chọn ảnh khay cơm từ máy.
 
 Bước 4: Hệ thống thực hiện các bước:
+
 •	Phát hiện món ăn bằng YOLO.
+
 •	Phân loại từng món bằng CNN.
+
 •	Hiển thị danh sách món ăn, tổng tiền và mã QR.
 
 Bước 5: Quét mã QR để truy cập trang thanh toán giả lập (có thể mở bằng trình duyệt hoặc ứng dụng quét QR).
