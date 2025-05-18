@@ -18,16 +18,16 @@ dish_labels = ["Ca hu kho", "Canh cai", "Canh chua", "Com trang",
                "Thit kho", "Thit kho trung", "Trung chien"]
 
 dish_prices = {
-    "Ca hu kho": 12000,
-    "Canh cai": 5000,
-    "Canh chua": 5000,
-    "Com trang": 0,
-    "Dau hu sot ca": 12000,
-    "Ga chien": 12000,
-    "Rau muong xao toi": 5000,
-    "Thit kho": 8000,
-    "Thit kho trung": 8000,
-    "Trung chien": 5000
+    "Ca hu kho": 22000,
+    "Canh cai": 9000,
+    "Canh chua": 10000,
+    "Com trang": 5000,
+    "Dau hu sot ca": 16000,
+    "Ga chien": 25000,
+    "Rau muong xao toi": 8000,
+    "Thit kho": 17000,
+    "Thit kho trung": 18000,
+    "Trung chien": 12000
 }
 
 # Global variables
